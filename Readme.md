@@ -1,6 +1,6 @@
 
 
-![icon](https://raw.githubusercontent.com/SAP-Custom-Widget/QrCodeWidget/main/icon.png)
+<img src="https://raw.githubusercontent.com/SAP-Custom-Widget/QrCodeWidget/main/icon.png" width="100">
 
 ## SAP Custom Widget: Qr Code Widget
 SAP Custom widget to generate and display QR Code dynamically, with colors.
