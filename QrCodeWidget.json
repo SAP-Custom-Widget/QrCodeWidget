@@ -12,14 +12,14 @@
         {
             "kind": "main",
             "tag": "com-rohitchouhan-sap-qrcodewidget",
-            "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/QrCodeWidget\/QrCodeWidget.js",
+            "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/QrCodeWidget@1.0.0\/QrCodeWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
             "tag": "com-rohitchouhan-sap-qrcodewidget-builder",
-            "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/QrCodeWidget\/QrCodeWidget_Builder.js",
+            "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/QrCodeWidget@1.0.0\/QrCodeWidget_Builder.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
